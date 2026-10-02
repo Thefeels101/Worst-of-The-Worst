@@ -1,6 +1,6 @@
 {
 	"Name": "Worst Of The Worst",
-	"Version": 1790301079,
+	"Version": 1790963249,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1129,12 +1129,10 @@
 				"20"
 			],
 			"BalanceTiers": [
-				0,
-				3
+				0
 			],
 			"SurvivorBalanceTiers": [
-				0,
-				3
+				0
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2185,12 +2183,10 @@
 				"32"
 			],
 			"BalanceTiers": [
-				0,
-				2
+				0
 			],
 			"SurvivorBalanceTiers": [
-				0,
-				2
+				0
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
