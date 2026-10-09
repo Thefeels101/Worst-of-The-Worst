@@ -1,6 +1,6 @@
 {
 	"Name": "Worst Of The Worst",
-	"Version": 1790963249,
+	"Version": 1791583415,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -15,21 +15,26 @@
 				"18",
 				"247",
 				"19",
+				"318",
 				"73",
 				"24",
 				"60",
 				"288",
+				"312",
 				"43",
 				"46",
 				"55",
 				"252",
 				"74",
 				"80",
+				"85",
 				"86",
 				"90",
 				"296",
 				"98",
 				"275",
+				"105",
+				"111",
 				"253",
 				"115",
 				"116",
@@ -47,6 +52,7 @@
 				"138",
 				"315",
 				"147",
+				"255",
 				"149",
 				"155",
 				"163",
@@ -86,7 +92,8 @@
 				[
 					"11",
 					"130"
-				]
+				],
+				[]
 			],
 			"KillerComboPerkBans": [
 				[
@@ -120,6 +127,14 @@
 				[
 					"196",
 					"217"
+				],
+				[
+					"317",
+					"143"
+				],
+				[
+					"317",
+					"157"
 				]
 			]
 		}
@@ -243,8 +258,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5,
+				16
+			]
 		},
 		{
 			"Name": "The Hillbilly",
@@ -326,8 +348,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5,
+				16
+			]
 		},
 		{
 			"Name": "The Nurse",
@@ -668,8 +697,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5,
+				16
+			]
 		},
 		{
 			"Name": "The Cannibal",
@@ -807,8 +843,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5,
+				16
+			]
 		},
 		{
 			"Name": "The Pig",
@@ -872,8 +915,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5,
+				16
+			]
 		},
 		{
 			"Name": "The Clown",
@@ -2172,8 +2222,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5,
+				16
+			]
 		},
 		{
 			"Name": "The Good Guy",
@@ -2663,8 +2720,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5,
+				16
+			]
 		},
 		{
 			"Name": "The Krasue",
@@ -2885,8 +2949,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5,
+				16
+			]
 		},
 		{
 			"Name": "The Judgment",
